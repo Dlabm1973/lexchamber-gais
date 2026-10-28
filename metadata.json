@@ -1,0 +1,6 @@
+{
+  "name": "LexChamber - Practice Finance for Advocates",
+  "description": "Modern practice finance, fee notes, payment tracking, and accounting workbench for South African advocates and legal chambers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
